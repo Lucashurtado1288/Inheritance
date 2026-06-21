@@ -20,7 +20,7 @@ class Mammal:
     def make_sound(self):
         print('Grrrrr')
 
-# The Dog class is a subclass of the Mammal class.
+# The Dog class is a subclass of the Mammal superclass.
 
 class Dog(Mammal):
 
